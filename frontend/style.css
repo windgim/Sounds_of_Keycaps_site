@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Manrope:wght@300&display=swap');
+
+body {
+    font-family: 'Manrope', sans-serif;
+    margin: 0px;
+    background: #dfdfdfe5;
+}
+
+.header {
+    display: flex;
+    margin-top: auto;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+    width: auto;
+    height: 100px;
+}
+
+.main {
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    margin: 10px 10px 0px 10px; 
+    width: auto;
+    height: 600px;
+    background: #ffffff;
+}
+
+.main_one {
+    margin-top: -10px;
+    display: flex;
+    justify-content: center;
+}
+
+.main_two {
+    display: flex;
+    justify-content: center;
+}
+
+.keycaps {
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px 5px 0px 5px;
+    width: 260px;
+    height: 250px;
+    background: #dfdfdfe5;
+}
+
+audio {
+    margin-top: 20px;
+    max-width: 200px;
+}
+
+h4{
+    padding-top: 10px;
+}
+
+.footer {
+    align-items: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background: #cfcfcf;
+    width: auto;
+    height: 190px;
+}
+
+h2 {
+    text-align: center;
+}
+
+a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.h3_keycaps {
+    margin-top: 25px;
+}
